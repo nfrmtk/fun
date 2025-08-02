@@ -1,2 +1,2 @@
-int _Z2fpPKi(const int*);
-int _Z2frPKi(const int*);
+int funp(const int*);
+int funr(const int*);
